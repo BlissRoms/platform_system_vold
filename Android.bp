@@ -8,6 +8,7 @@ cc_defaults {
         "-Wno-missing-field-initializers",
         "-Wno-unused-parameter",
         "-Wno-unused-variable",
+        "-Wno-unused-function",
     ],
 
     clang: true,
